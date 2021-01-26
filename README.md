@@ -11,9 +11,11 @@ It has some tweaks and different command and crafting recepies.
 The crafting recepies I made for this custom Ender Bow plugin.
 
 ![Ender Bow](img/enderbow.png)
+
 Ender Bow ^
 
 ![Ender Bow Upgrade](img/ebowupgrade.png)
+
 Upgrade normal bow to Ender Bow ^
 
 ## Building
