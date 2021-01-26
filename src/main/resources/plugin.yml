@@ -1,0 +1,9 @@
+name: EnderBow
+main: dev.bitsnthings.mc.ebow.EnderBow
+version: 1.0
+api-version: 1.13
+commands:
+  ebow:
+    description: Give a player an ender bow.
+    usage: /ebow [player]
+    permission: enderbow.ebow
