@@ -18,6 +18,12 @@ Ender Bow ^
 
 Upgrade normal bow to Ender Bow ^
 
+## Permissions
+
+enderbow.use for actually firing the Ender Bow.
+enderbow.give.self for using /ebow.
+enderbow.give.others for using /ebow {player}.
+
 ## Building
 
 The project can be built easily with Apache Maven by running "mvn compile".
