@@ -2,6 +2,7 @@ package dev.bitsnthings.mc.ebow;
 
 import java.util.ArrayList;
 
+import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.inventory.ShapedRecipe;
 import org.bukkit.inventory.ItemStack;
@@ -26,6 +27,7 @@ public final class EbowUtil {
     ItemStack ebow = new ItemStack(Material.BOW);
     ItemMeta meta = ebow.getItemMeta();
     meta.setDisplayName(ChatColor.DARK_PURPLE + "Ender Bow");
+    meta.addEnchant(Enchantment.ARROW_INFINITE, 1, false);
     ebow.setItemMeta(meta);
     return ebow;
   }
