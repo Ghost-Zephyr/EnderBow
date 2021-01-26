@@ -6,7 +6,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.Bukkit;
 
 public class EnderBow extends JavaPlugin {
-  private final Logger logger = Logger.getLogger("Enderbow");
+  private final Logger logger = Logger.getLogger("EnderBow");
   private static EnderBow plugin;
   @Override
   public void onEnable() {

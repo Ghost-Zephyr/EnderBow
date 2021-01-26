@@ -2,7 +2,7 @@
 
 Like normal bow, but shoots ender pearls.
 
-It's my implemetation of the ender bow guide found at spigotmc.org developer wiki.
+It's my implemetation of the ender bow guide found at spigotmc.org developer wiki or [here](https://www.spigotmc.org/wiki/enderbow-an-easy-first-plugin/).
 
 It has some tweaks and different command and crafting recepies.
 
