@@ -21,7 +21,9 @@ Upgrade normal bow to Ender Bow ^
 ## Permissions
 
 enderbow.use for actually firing the Ender Bow.
+
 enderbow.give.self for using /ebow.
+
 enderbow.give.others for using /ebow {player}.
 
 ## Building
